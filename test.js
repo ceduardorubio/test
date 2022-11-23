@@ -1,0 +1,1 @@
+window.tester = "1234"

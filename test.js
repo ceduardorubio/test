@@ -1,1 +1,3 @@
-window.tester = "1234"
+window.notes = 
+`137ú<@ăMNLďS]X[
+`
